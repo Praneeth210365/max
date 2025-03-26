@@ -8,7 +8,8 @@ case1:printf"btech AIML");
 break;
 
 case2: printf("human nutrition");
-break;
+break;printf("human nutrition");
+
 
 case3: printf ("psychology");
 break;
