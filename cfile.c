@@ -4,6 +4,7 @@ int main(){
 	switch (var){
 
 case1:printf"btech AIML");
+     :printf"btech cse");
 break;
 
 case2: printf("human nutrition");
@@ -14,4 +15,5 @@ break;
 
 case4: printf ("amity hostel");
 break;
+
 
