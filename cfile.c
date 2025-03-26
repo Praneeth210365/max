@@ -13,5 +13,6 @@ case3: printf ("psychology");
 break;
 
 case4: printf ("amity hostel");
+printf ("amity hostel");
 break;
 
