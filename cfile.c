@@ -12,7 +12,7 @@ break;printf("human nutrition");
 
 
 case3: printf ("psychology");
-break;
+ break;printf ("psychology")
 
 case4: printf ("amity hostel");
 break;
