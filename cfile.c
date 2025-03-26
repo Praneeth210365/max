@@ -6,4 +6,7 @@ int main(){
 case1:printf"btech AIML");
 break;
 
+case2: printf("human nutrition")
+break;
+
 
